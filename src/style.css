@@ -6,10 +6,6 @@
   padding-bottom: 10px;
 }
 
-form > fieldset > div:first-of-type {
-  padding-top: 0;
-}
-
-form > fieldset > div:last-of-type {
+.form-field:last-child {
   padding-bottom: 0;
 }
